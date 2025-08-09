@@ -1,0 +1,14 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "Banking Project",
+      "database": "banking_project",
+      "username": "postgres",
+      "password": "12345"
+    }
+  ]
+}
